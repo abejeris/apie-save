@@ -1,0 +1,44 @@
+body {
+  background: #126e82;
+  color: #d8e3e7;
+}
+h1 {
+  font-family: "Exo";
+  font-weight: 100;
+  font-size: xxx-large;
+  margin: 20px;
+  text-align: center;
+  text-shadow: 3px 3px 3px #51c4d3;
+}
+
+img {
+  float: left;
+  width: 400px;
+  border-radius: 10px;
+  border: #126e82 solid 3px;
+  margin: 0 20px 0 0;
+}
+
+.tekstas {
+  text-align: justify;
+  font-family: "Exo";
+  font-weight: 400;
+  font-size: large;
+  color: #132c33;
+}
+
+.remas {
+  max-width: 700px;
+  min-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  background: #51c4d3;
+  border: #d8e3e7 solid 3px;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 10px 10px 10px#132c33;
+}
+p {
+  font-family: "Exo";
+  text-align: center;
+}
